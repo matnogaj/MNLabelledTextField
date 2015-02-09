@@ -96,7 +96,7 @@
 }
 
 - (void)prepareForInterfaceBuilder {
-#warning Implement
+//#warning Implement
 }
 
 - (void)setDelegate:(id<UITextFieldDelegate>)delegate {
