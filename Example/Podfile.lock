@@ -1,0 +1,14 @@
+PODS:
+  - MNLabelledTextField (0.1.0)
+
+DEPENDENCIES:
+  - MNLabelledTextField (from `../`)
+
+EXTERNAL SOURCES:
+  MNLabelledTextField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MNLabelledTextField: 8bdb74cba0335888cf656bd8067a3f74a463ac11
+
+COCOAPODS: 0.35.0
