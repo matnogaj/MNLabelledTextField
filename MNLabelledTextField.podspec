@@ -10,14 +10,14 @@
 Pod::Spec.new do |s|
   s.name             = "MNLabelledTextField"
   s.version          = "0.1.0"
-  s.summary          = “UITextField subclass that has a label above.”
+  s.summary          = "UITextField subclass that has a label above."
   s.description      = <<-DESC
 Text field that display label once the text field contains some characters. Text for the label is taken from the placeholder.
                        DESC
   s.homepage         = "https://github.com/matnogaj/MNLabelledTextField"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "mateusz nogaj" => "matnogaj@gmail.com" }
+  s.author           = { "Mateusz Nogaj" => "matnogaj@gmail.com" }
   s.source           = { :git => "https://github.com/matnogaj/MNLabelledTextField.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
