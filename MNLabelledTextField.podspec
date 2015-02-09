@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "MNLabelledTextField"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "UITextField subclass that has a label above."
   s.description      = <<-DESC
 Text field that display label once the text field contains some characters. Text for the label is taken from the placeholder.
